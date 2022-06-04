@@ -3,3 +3,6 @@
 
 # Virtual Environments
 .venv
+
+#DS Store
+data/.DS_Store
