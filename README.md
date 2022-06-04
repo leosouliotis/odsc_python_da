@@ -10,7 +10,7 @@ In this workshop, you will get acquainted with the pandas library, which is the 
 
 ## Session Outline:
 ### Lesson 1: DataFrames and Python
-You will familiarize yourself with the pandas package and how to use its core objects: the DataFrames. You will learn how to import and export tabular files in Python, along with many different operations, such as grouping and transforming your data.
+You will familiarize yourself with the pandas package and how to use it's core objects: the DataFrames. You will learn how to import and export tabular files in Python, along with many different operations, such as grouping and transforming your data.
 
 ### Lesson 2: Creating meaningful visualizations 
 Once you have uploaded and transformed your data, you will practice the art of crating meaningful visualizations to get a better understanding of your data using the plotnine package in Python. At the end of this lesson, you will be able to identify which is the most appropriate visualization technique according to your goal and your available data.
