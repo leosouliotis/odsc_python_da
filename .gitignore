@@ -1,0 +1,5 @@
+# Leave out chechpoints
+.ipynb_checkpoints
+
+# Virtual Environments
+.venv
